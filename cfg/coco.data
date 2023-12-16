@@ -1,0 +1,7 @@
+classes = 80
+train   = /root/darknet_ttt/data/trainvalno5k.txt
+valid   = /root/darknet_ttt/data/1k.txt
+names   = data/coco.names
+backup  = weight
+eval    = coco
+

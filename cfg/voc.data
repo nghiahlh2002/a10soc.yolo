@@ -1,0 +1,7 @@
+classes= 20
+train  = /home/somewhere/dataset/train.txt
+valid  = /home/somewhere/Darknet/darknet_sdl/2012.txt
+names = data/voc.names
+backup = XRVYL_VOC
+#idremap = data/voc_idremap.data
+
